@@ -16,7 +16,7 @@ let btn = () => {
       // Do not alter the main div
 
     <button id="click" onClick={btn}> click</button>
-   <p id="para">{button}</p>
+   <para id="para">{button}</para>
     </div>
   );
 }
